@@ -1,6 +1,8 @@
 <h1 align="center">
 <br>
-  "![favicon](https://user-images.githubusercontent.com/78655626/108903542-2bae8c80-75fc-11eb-9397-cf1eb483579a.png)"
+  ![favicon](https://user-images.githubusercontent.com/78655626/108905574-a11b5c80-75fe-11eb-9ba5-65bc1e11b13f.png)
+
+  
 <br>
 MoveIt
 </h1>
@@ -17,9 +19,9 @@ MoveIt
 [//]: # (Add the features of your project here:)
 This app features all the latest tools and practices in mobile development!
 
-- ?? **React Js** — A JavaScript library for building user interfaces
-- ?? **Typescript** — A lib that provides a way to create web interfaces with Javascript
-- ?? **Next.js** — A web framework for React Js
+-  **React Js** — A JavaScript library for building user interfaces
+-  **Typescript** — A lib that provides a way to create web interfaces with Javascript
+-  **Next.js** — A web framework for React Js
 
 
 
