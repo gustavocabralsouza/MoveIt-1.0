@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  ![favicon](https://user-images.githubusercontent.com/78655626/108905574-a11b5c80-75fe-11eb-9ba5-65bc1e11b13f.png)
+  ![](https://github.com/gustavocabralsouza/MoveIt/blob/master/public/favicon.png)
 
   
 <br>
