@@ -1,8 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="![favicon](https://user-images.githubusercontent.com/78655626/108903542-2bae8c80-75fc-11eb-9397-cf1eb483579a.png)
-" alt="YOUR_PROJECT_NAME" width="120">
-<br>
+  ![favicon](https://user-images.githubusercontent.com/78655626/108903542-2bae8c80-75fc-11eb-9397-cf1eb483579a.png)
 <br>
 MoveIt
 </h1>
