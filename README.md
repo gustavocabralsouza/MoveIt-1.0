@@ -1,34 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+<br>
+  <img src="![favicon](https://user-images.githubusercontent.com/78655626/108903542-2bae8c80-75fc-11eb-9397-cf1eb483579a.png)
+" alt="YOUR_PROJECT_NAME" width="120">
+<br>
+<br>
+MoveIt
+</h1>
 
-## Getting Started
+<p align="center">Projeto desenvolvido durante a NLW do curso da RockeatSeat, a fim de gerenciar o tempo de usuários na frente de um dispositivo eletrônico, controlando o tempo e auxiliando o mesmo a realizaçãp de tarefas e exercícios a fim de promover sua saúde física e mental.</p>
 
-First, run the development server:
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Features
+[//]: # (Add the features of your project here:)
+This app features all the latest tools and practices in mobile development!
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- ?? **React Js** — A JavaScript library for building user interfaces
+- ?? **Typescript** — A lib that provides a way to create web interfaces with Javascript
+- ?? **Next.js** — A web framework for React Js
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## License
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
