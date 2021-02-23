@@ -1,6 +1,7 @@
 <h1 align="center">
 <br>
-  ![](https://github.com/gustavocabralsouza/MoveIt/blob/master/public/favicon.png)
+    <img src="https://github.com/gustavocabralsouza/MoveIt/blob/master/public/favicon.png" alt="MoveIt" width="120">
+  
 
   
 <br>
