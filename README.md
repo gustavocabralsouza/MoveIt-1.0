@@ -1,11 +1,11 @@
 <h1 align="center">
 <br>
-  ![favicon](https://user-images.githubusercontent.com/78655626/108903542-2bae8c80-75fc-11eb-9397-cf1eb483579a.png)
+  "![favicon](https://user-images.githubusercontent.com/78655626/108903542-2bae8c80-75fc-11eb-9397-cf1eb483579a.png)"
 <br>
 MoveIt
 </h1>
 
-<p align="center">Projeto desenvolvido durante a NLW do curso da RockeatSeat, a fim de gerenciar o tempo de usuários na frente de um dispositivo eletrônico, controlando o tempo e auxiliando o mesmo a realizaçãp de tarefas e exercícios a fim de promover sua saúde física e mental.</p>
+<p align="center">Projeto desenvolvido durante a NLW do curso da RockeatSeat, a fim de gerenciar o tempo de usuários na frente de um dispositivo eletrônico, controlando o tempo e auxiliando o mesmo a realização de tarefas e exercícios a fim de promover sua saúde física e mental.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
