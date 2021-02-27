@@ -38,7 +38,7 @@ https://moveit-silk-alpha.vercel.app/
 ## Getting started
 
 * Clone this repository :
->    $ git clone git@github.com:gustavocabralsouza/MoveIt.git
+>    $ git clone https://github.com/gustavocabralsouza/MoveIt.git
 * Access the project folder in your terminal / cmd
 >    $ cd moveit-next
 * Go to the Front End application folder
