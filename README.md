@@ -25,12 +25,39 @@ This app features all the latest tools and practices in web development!
 -  **Next.js** — A web framework for React Js
 <br>
 
-# "Where do I access your project?"
+## "Where do I access your project?"
 
 
 You can access my project by entering the following link:
 
 https://moveit-silk-alpha.vercel.app/
+<br>
+
+# How to execute the project ?
+
+## Getting started
+
+* Clone this repository :
+>    $ git clone https://github.com/gustavocabralsouza/MoveIt.git
+* Access the project folder in your terminal / cmd
+>    $ cd moveit-next
+* Go to the Front End application folder
+>    $ cd moveit-next
+* Install project dependencies
+>    $ npm install or yarn install
+* Run the application in development mode
+>    $ npm run dev or yarn dev
+* Final note: The application will open at port: 3000 - go to http: // localhost: 3000
+
+
+## Versioning
+ 
+1.0.0.0
+
+## Authors
+ 
+* **Gustavo Cabral de Souza**: @gustavocabralsouza <img src="https://avatars.githubusercontent.com/u/78655626?s=400&u=d4c1096f1be3e31ed80a1e9766b158beaa6f2120&v=4">
+<br>
 
 ## License
 
