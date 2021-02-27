@@ -12,8 +12,19 @@
 {
     flex: 1;
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 6.25rem;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 3.25rem;
     align-content: center;
+    margin-bottom: 20px;
 
+}
+
+@media(max-width: 420px) {
+    .container {            
+        padding: 0.5rem;   
+        height: 140vh;
+    } 
+    .container section{        
+        gap: 1.25rem;        
+    } 
 }
