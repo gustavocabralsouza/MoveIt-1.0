@@ -59,6 +59,7 @@ export function CountdownProvider({children}: CountdownProviderProps) {
             setHasFinished(true);
             setIsActive(false);   
             startNewChallenge();  
+            autoScrollBottom();
         }
     }, [isActive, time])
 
