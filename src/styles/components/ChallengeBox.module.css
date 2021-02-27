@@ -109,3 +109,13 @@
 .challengeActive footer button:hover{
     filter: brightness(0.9);
 }
+
+@media(max-width: 460px) {
+    .challengeNotActive img {
+       margin:auto;
+       height: 80px;
+    }
+    .challengeNotActive strong {
+       font-size: 1rem;
+    }
+ }
