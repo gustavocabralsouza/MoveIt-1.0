@@ -53,10 +53,7 @@ https://moveit-silk-alpha.vercel.app/
 ## Versioning
  
 1.0.0.0
-
-## Authors
  
-* **Gustavo Cabral de Souza**: @gustavocabralsouza <img src="https://avatars.githubusercontent.com/u/78655626?s=400&u=d4c1096f1be3e31ed80a1e9766b158beaa6f2120&v=4">
 <br>
 
 ## License
