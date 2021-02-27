@@ -11,6 +11,8 @@ interface CountdownContextData{
     isActive : boolean;
     startCountdown : () => void;
     resetCountdown : () => void;
+    autoScrollBottom : () => void;
+    autoScrollTop : () => void;
 }
 
 
@@ -23,7 +25,7 @@ export const CountdownContext = createContext({} as CountdownContextData)
 export function CountdownProvider({children}: CountdownProviderProps) {
     const {startNewChallenge} = useContext(ChallengesContext);
 
-    const [time, setTime] = useState(25 * 60);
+    const [time, setTime] = useState(0.1 * 60);
     const [isActive, setIsActive] = useState(false);
     const [hasFinished, setHasFinished] = useState(false);
     const minutes = Math.floor(time / 60);
@@ -33,10 +35,18 @@ export function CountdownProvider({children}: CountdownProviderProps) {
         setIsActive(true);
     }
 
+    function autoScrollBottom(){
+        const scrollBottom = window.scrollTo(0, document.body.scrollHeight);
+    } 
+                                    
+    function autoScrollTop(){
+        const scrollBottom = window.scrollTo(0,0);
+    }
+
     function resetCountdown(){
         clearTimeout(countdownTimeOut);
         setIsActive(false);
-        setTime(25 * 60);
+        setTime(0.1 * 60);
         setHasFinished(false);
     }
 
@@ -60,6 +70,9 @@ export function CountdownProvider({children}: CountdownProviderProps) {
             isActive,
             startCountdown,
             resetCountdown,
+            autoScrollBottom,
+            autoScrollTop,
+            
         }}>
             {children}
         </CountdownContext.Provider>
