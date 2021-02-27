@@ -3,18 +3,33 @@ import { ChallengesContext } from '../contexts/ChallengesContext';
 import { CountdownContext } from '../contexts/CountdownContext';
 import styles from '../styles/components/ChallengeBox.module.css';
 
+const message = {
+    startMessage: " Vamoos !!! Finaliza o ciclo para receber um desafio :)",
+    messageSucceeded:"Parabéns! E aí preparado para mais uma conquista? Iniciei um novo ciclo!",
+    messageFailed: "Que Pena! Da próxima você consegue. Iniciei um novo ciclo!"
+ }
+
+ let messageContext = message.startMessage;
+
+
 export function ChallengeBox(){
     const { activeChallenge, resetChallenge, completeChallenge} = useContext(ChallengesContext);
     const {resetCountdown} = useContext(CountdownContext)
+    const {autoScrollTop} = useContext(CountdownContext);
+
 
     function handleChallengeSucceeded(){
         completeChallenge();
         resetCountdown();
+        messageContext = message.messageSucceeded;
+        autoScrollTop();
     }
 
     function handleChallengeFailed(){
         resetChallenge();
         resetCountdown();
+        messageContext = message.messageFailed;
+        autoScrollTop();
     }
 
     return(
