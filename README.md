@@ -49,6 +49,11 @@ https://moveit-silk-alpha.vercel.app/
 >    $ npm run dev or yarn dev
 * Final note: The application will open at port: 3000 - go to http: // localhost: 3000
 
+## Screenshots
+![print1](https://user-images.githubusercontent.com/78655626/109403937-1610ce00-7940-11eb-9749-b36e03b43cdd.PNG)
+![print2](https://user-images.githubusercontent.com/78655626/109403946-2628ad80-7940-11eb-895e-d6a53f74794b.PNG)
+![print3](https://user-images.githubusercontent.com/78655626/109403950-29bc3480-7940-11eb-92a9-cd98a0f39f77.PNG)
+
 
 ## Versioning
  
