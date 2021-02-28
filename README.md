@@ -33,7 +33,8 @@ You can access my project by entering the following link:
 https://moveit-silk-alpha.vercel.app/
 <br>
 
-# How to execute the project ?
+# How do I start this project?
+
 
 ## Getting started
 
