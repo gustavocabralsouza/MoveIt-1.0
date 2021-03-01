@@ -20,8 +20,8 @@ MoveIt
 [//]: # (Add the features of your project here:)
 This app features all the latest tools and practices in web development!
 
--  **React Js** — A JavaScript library for building user interfaces
--  **Typescript** — A lib that provides a way to create web interfaces with Javascript
+-  **React Js** — A JavaScript library for building user interfaces.
+-  **Typescript** — TypeScript is a superset of JavaScript developed by Microsoft that adds typing and some other features to the language.
 -  **Next.js** — A web framework for React Js
 <br>
 
