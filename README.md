@@ -16,6 +16,13 @@ MoveIt
   </a>
 </p>
 
+## "Where do I access your project?"
+
+
+You can access my project by entering the following link:
+
+https://moveit-silk-alpha.vercel.app/
+
 ## Features
 [//]: # (Add the features of your project here:)
 This app features all the latest tools and practices in web development!
@@ -25,12 +32,7 @@ This app features all the latest tools and practices in web development!
 -  **Next.js** — A web framework for React Js
 <br>
 
-## "Where do I access your project?"
 
-
-You can access my project by entering the following link:
-
-https://moveit-silk-alpha.vercel.app/
 <br>
 
 # How do I start this project?
