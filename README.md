@@ -67,7 +67,7 @@ This app features all the latest tools and practices in web development!
 # Testimonial :
 
 ## "What could I learn from this project and evolve my career as a developer?"
-I was able to go deeper into web development using Next.js framework, I learned to deal with Contexts and emphasize the teaching of ContextAPI, in this project I applied good development practices for high scalability and maintain the philosophy of continuing development until the end with a constant focus on promote true human progress.
+I was able to go deeper into web development using Next.js framework, I learned to deal with Contexts and emphasize the teaching of Context API, in this project I applied good development practices for high scalability and maintain the philosophy of continuing development until the end with a constant focus on promote true human progress.
 
 
 
