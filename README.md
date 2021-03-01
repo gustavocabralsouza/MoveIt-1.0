@@ -62,6 +62,13 @@ https://moveit-silk-alpha.vercel.app/
  
 <br>
 
+# Testimonial :
+
+## "What could I learn from this project and evolve my career as a developer?"
+I was able to go deeper into web development using Next.js framework, I learned to deal with Contexts and emphasize the teaching of ContextAPI, in this project I applied good development practices for high scalability and maintain the philosophy of continuing development until the end with a constant focus on promote true human progress.
+
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
