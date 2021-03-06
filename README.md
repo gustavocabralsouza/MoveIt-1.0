@@ -62,7 +62,7 @@ This app features all the latest tools and practices in web development!
 
 ## Versioning
  
-1.1.0.1
+1.1.1.1
  
 <br>
 
