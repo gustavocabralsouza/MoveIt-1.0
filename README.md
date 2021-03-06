@@ -58,7 +58,7 @@ This app features all the latest tools and practices in web development!
 ![print3](https://user-images.githubusercontent.com/78655626/109403950-29bc3480-7940-11eb-92a9-cd98a0f39f77.PNG)
 teste de documentacao ampliada 
 arn >> md.99
-hgd >> u.00;
+hgd 
 
 
 
