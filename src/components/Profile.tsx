@@ -13,7 +13,10 @@ export function Profile(){
                 <p>
                     <img src="icons/level.svg" alt="Level"/>
                     Level {level}
+                    
                 </p>
+
+                {/* teste */}
             </div>
         </div>
     );
